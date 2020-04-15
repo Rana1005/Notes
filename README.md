@@ -1,6 +1,5 @@
-# statef
-
-A new Flutter project.
+# notes app
+ crud operation on notes.
 
 ## Getting Started
 
